@@ -14,3 +14,5 @@ Une fonctionnalité de recherche est implémentée.
 À l'écrit d'un mail, il est possible de joindre un ou plusieurs documents ainsi que plusieurs destinataires. 
 
 Une fonctionnalité intéressante est l'envoi différé. Il est possible de programmer, soit un compte à rebours, soit une heure précise pour envoyer l'email. 
+
+![My Mails](https://github.com/arttit/MyMails/blob/master/mails.png)
